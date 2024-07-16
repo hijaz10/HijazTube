@@ -1,0 +1,30 @@
+.sidebars{
+    padding-top: 30px;
+    position: fixed;
+    top:100px;
+    height: 650px;
+    width: 100px;
+    margin-left: 0;
+    left: 0;
+    bottom: 0;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: rgb(224, 224, 224);
+
+}
+
+.sidebars img{
+    height: 30px;
+    width: 40px;
+}
+
+.sidebars button{
+    height: 70px;
+    width: 70px;
+    margin-left: 8px;
+    border: 0;
+    background-color: white;
+    margin-bottom: 20px;
+    font-size: 11px;
+    cursor: pointer;
+}
