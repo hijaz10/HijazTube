@@ -149,7 +149,7 @@
 
     .header-right {
         width: 150px;
-        margin-left: -20px;
+        margin-left: -70px;
         margin-bottom: -10px;
     }
 
@@ -199,8 +199,8 @@
 
     .Search-button {
         width: 40px;
-        margin-left: 30px;
-        margin-right: -10px;
+        margin-left: 10px;
+        margin-right: -18px;
     }
 
     .notifications-count {
