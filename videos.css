@@ -78,6 +78,7 @@
 @media (min-width: 200px) and (max-width: 499px) {
     .video-container {
         grid-template-columns: 1fr;
+        margin-left: -50px;
     }
 
     .thumbnails-container {
